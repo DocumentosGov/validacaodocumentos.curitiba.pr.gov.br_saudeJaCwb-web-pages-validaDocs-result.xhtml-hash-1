@@ -324,3 +324,12 @@ body {
         padding: 14px 18px;
     }
 }
+/* Padronização dos caracteres de máscara */
+.mascara {
+    font-family: "Courier New", monospace;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: 0;
+    word-spacing: 0;
+    white-space: nowrap;
+}
